@@ -1,0 +1,11 @@
+# --- 操作系统 / 编辑器 临时文件 ---
+Thumbs.db
+desktop.ini
+.DS_Store
+*~
+*.tmp
+*.bak
+
+# 编辑器配置目录
+.vscode/
+.idea/
